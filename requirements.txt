@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+plotly
+streamlit
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-openai
+python-dotenv
+pydantic
+faker
+pytest
+httpx
+joblib
